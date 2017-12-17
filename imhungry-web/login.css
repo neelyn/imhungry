@@ -1,0 +1,137 @@
+@font-face{
+	font-family: 'Nexa';
+	src:url(./fonts/Nexa_Book-webfont.woff2);
+	font-weight: thin;
+}
+
+@font-face{
+	font-family: 'Nexa';
+	src:url(./fonts/Nexa_Heavy-webfont.woff2);
+	font-weight: medium;
+}
+
+body{
+	background-image: url("img/bg-img.png")
+}
+
+}
+nav{
+	width:100%;
+	
+}
+h1{
+	font-family: "Nexa";
+	src:url(./fonts/Mexa_Book-webfont.woff2);
+	color: rgb(230,75,81);
+	font-size: 20px;
+	margin: 15px;
+	float: left;
+}
+ul{
+	float : right;
+	color: #ca5f53;
+
+}
+
+ul li{
+	display: inline-block;
+	margin-right: 45px;
+	font-size: 20px;
+	font-family: "Nexa";
+	src:url(./fonts/Mexa_Book-webfont.woff2);
+	vertical-align: middle;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.zhuce{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	border: 2px solid black;
+	border-radius: 20px;
+	padding: 15px 30px;
+}
+
+.x{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	font-weight: 200;
+	font-size: ;
+	
+}
+
+form{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	background-color: rgb(230,75,81);
+	width: 30%;
+	height: 50%;
+	margin: auto;
+	border-radius: 30px;
+	text-align: center;
+
+}
+
+
+input{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	border: 1px solid #ccc;
+	height: 40px;
+	width: 80%;
+	text-align: left;
+	text-indent: 10px;
+	border-radius: 30px;
+	margin-bottom: 20px;
+}
+
+input:focus{
+	outline:none;
+}
+
+.p3{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	font-size: 30px;
+	margin-top: 50px;
+	color:white;
+	text-align: center;
+	padding-top: 22px;
+	}
+
+#username{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	padding: ;
+	width: 80%;
+	height: 40px;
+	background-color: rgb(230,75,81);
+	border: 2px solid white;
+	border-radius: 30px;
+	text-decoration-color: white;
+	font-size: 13px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#meiyou{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	color: white;
+}
+#mashang{
+	font-family: "Nexa";
+	src:url(../fonts/Nexa_Heavy-webfront.woff2);
+	color: white;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
